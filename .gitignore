@@ -1,0 +1,8 @@
+.vscode
+
+# Python's virtual environment and libraries
+venv
+DJITelloPy
+
+# test output for C++ 
+test
